@@ -38,4 +38,3 @@ while selection != 'q':
    else:
         print("invalid input") 
    selection = input(MENU_PROMPT)
-   
